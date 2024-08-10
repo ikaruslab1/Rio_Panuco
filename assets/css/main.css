@@ -588,7 +588,7 @@ section {
 }
 
 .hero h3 {
-  color: #fff;
+  color: var(--color-primary-1);
   padding: 2% 10%;
 }
 
